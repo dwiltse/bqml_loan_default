@@ -1,6 +1,6 @@
 ## Introduction
 
-Credit card debt has risen during the pandemic, hitting a record high of $930 billion.  Delinquency rates have also risen over the same time period, up to 5.32% across all age groups [1].  Because of these factors, businesses are looking for an edge on how to obtain new customers while limiting their risk of not being paid back by customers who default on their loans.
+Credit card debt has risen during the pandemic, hitting a record high of $930 billion.  Delinquency rates have also risen over the same time period, up to 5.32% across all age groups.  Because of these factors, businesses are looking for an edge on how to obtain new customers while limiting their risk of not being paid back by customers who default on their loans.
 
 One way to mitigate the risk is by using data to predict which customers are more likely to pay their bills based on information collected, from demographic information about the customer’s age or location, to behavioral based data such as whether they have a previous loan default.  By using this data to classify customers into risk buckets using statistical techniques like logistic regression to predict which customers will default on a loan and make credit decisions accordingly.
 
